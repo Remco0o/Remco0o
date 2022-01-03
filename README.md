@@ -1,6 +1,6 @@
--My own site (https://bit.ly/Remco0o)
+-My own site (https://remco0o.tk)
 
--Staff of Idle Dev (https://bit.ly/idledev)
+-Staff of Plasmatic Dev (https://bit.ly/PlasDev)
 
 -Staff of Fire Dev  (https://bit.ly/Firedev)
 
