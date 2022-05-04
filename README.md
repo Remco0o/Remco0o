@@ -7,7 +7,7 @@
 					alt="Github">
 			</a>
       
--My own site (https://remco0o.tk)
+-My own site (soon)
 
 -Staff of Fire Dev  (https://bit.ly/Firedev)
 
