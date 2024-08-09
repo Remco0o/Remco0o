@@ -7,8 +7,6 @@
       
 -My own site (soon)
 
--Staff of Fire Dev  (https://bit.ly/Firedev) (Not anymore)
-
 -Dutch  🇳🇱
 
 -Epic Pro Gamer!
