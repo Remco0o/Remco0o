@@ -2,7 +2,7 @@
 
 # Hey there, I'm Remco 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;C%23+%7C+Python+%7C+TypeScript;React+Enthusiast;Always+Learning+New+Things" alt="Animated text cycling through: Full-Stack Developer, C# | Python | TypeScript, React Enthusiast, Always Learning New Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Backend+Developer;C%23+%7C+Python+%7C+TypeScript;Always+Learning+New+Things" alt="Animated text cycling through: Backend Developer, C# | Python | TypeScript, Always Learning New Things" />
 
 </div>
 
@@ -25,7 +25,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
